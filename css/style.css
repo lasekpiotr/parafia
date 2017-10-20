@@ -12,12 +12,12 @@ body {
 
 nav {
     color: white;
-   float: left;
-       border-color: white;
+    float: left;
+    border-color: white;
     text-transform: uppercase;
-    padding-left: 100px;
     padding-top: 9px;
-   font-size: 20px;
+    font-size: 20px;
+    padding-left: 30%;
     
 }
 
@@ -75,7 +75,7 @@ footer {
 #design {
     float: left;
     padding-top: 20px;
-    padding-left: 600px;
+    padding-left: 700px;
     
 }
 
