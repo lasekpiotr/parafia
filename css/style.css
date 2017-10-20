@@ -1,0 +1,85 @@
+body {
+    width: auto;
+    font-family: 'Abhaya Libre', sans-serif;
+        margin: auto;
+}
+
+#square {
+  width: auto;
+    height: 80px;
+    background-color: black;
+}
+
+nav {
+    color: white;
+   float: left;
+       border-color: white;
+    text-transform: uppercase;
+    padding-left: 300px;
+    padding-top: 9px;
+   font-size: 20px;
+    
+}
+
+
+#name {
+    padding-left: 300px;
+    font-family: 'Abhaya Libre', sans-serif;
+    color: white;
+    float: left;
+    text-transform: uppercase;
+  
+}
+
+logo {
+    margin: auto;
+    margin-top: 0px;
+    width: auto;
+}
+
+li {
+    display: inline;
+    margin-left: 20px;
+   }
+
+a:hover {
+    color: red;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.naglowek {
+    text-transform: uppercase;
+    font-size: 60px;
+    margin: 20px 20px 20px 300px;
+    
+   
+}
+
+footer {
+    background-color: black;
+    color: white;
+    width: auto;
+    margin: auto;
+    height: 60px;
+   }
+#stopka {
+   padding-top: 20px;
+    padding-left: 250px;
+    float: left;
+}
+
+#design {
+    float: left;
+    padding-top: 20px;
+    padding-left: 800px;
+    
+}
+
+.biografia {
+    margin: 20px 300px 20px 300px;
+    font-size: 20px;
+    }
