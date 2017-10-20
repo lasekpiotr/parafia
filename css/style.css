@@ -1,23 +1,24 @@
 body {
-   
+   width: 1200px;
     font-family: 'Abhaya Libre', sans-serif;
         margin: auto;
 }
 
 #square {
-  width: auto;
+  width: 1200px;
     height: 80px;
     background-color: black;
 }
 
 nav {
     color: white;
-    float: left;
+    
     border-color: white;
     text-transform: uppercase;
     padding-top: 9px;
-    font-size: 20px;
-    padding-left: 25%;
+    font-size: 18px;
+    padding-left: 400px;
+    
     
 }
 
@@ -54,7 +55,7 @@ a {
 .naglowek {
     text-transform: uppercase;
     font-size: 60px;
-    margin: 20px 20px 20px 300px;
+    margin: 20px 20px 20px 100px;
     
    
 }
@@ -63,7 +64,7 @@ footer {
     background-color: black;
     color: white;
     width: auto;
-    margin: auto;
+    
     height: 60px;
    }
 #stopka {
@@ -75,11 +76,11 @@ footer {
 #design {
     float: left;
     padding-top: 20px;
-    padding-left: 700px;
+    padding-left: 650px;
     
 }
 
 .biografia {
-    margin: 20px 300px 20px 300px;
+    margin: 20px 100px 20px 100px;
     font-size: 20px;
     }
