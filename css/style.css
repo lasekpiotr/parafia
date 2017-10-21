@@ -2,7 +2,7 @@ body {
    width: 1200px;
     font-family: 'Abhaya Libre', sans-serif;
         margin: auto;
-  
+
 }
 
 #square {
@@ -11,17 +11,18 @@ body {
     background-color: black;
 }
 
+
+
+
 nav {
     color: white;
-    
-    border-color: white;
+        border-color: white;
     text-transform: uppercase;
     padding-top: 9px;
     font-size: 18px;
     padding-left: 500px;
-    
-    
-}
+ 
+    }
 
 
 #name {
@@ -46,11 +47,16 @@ li {
 
 a:hover {
     color: red;
-}
+   }
 
 a {
     color: white;
     text-decoration: none;
+        -webkit-transition: .7s;
+    -moz-transition: .7s;
+    -o-transition: .7s;
+    -ms-transition: .7s;
+    transition: .7s;
 }
 
 .naglowek {
@@ -107,4 +113,5 @@ margin: 50px 10px 20px 10px;
     font-family: bold;
     text-align: center;
 }
+
 
