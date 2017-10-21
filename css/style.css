@@ -2,6 +2,7 @@ body {
    width: 1200px;
     font-family: 'Abhaya Libre', sans-serif;
         margin: auto;
+  
 }
 
 #square {
@@ -76,7 +77,7 @@ footer {
 #design {
     float: left;
     padding-top: 20px;
-    padding-left: 500px;
+    padding-left: 650px;
     
 }
 
@@ -92,16 +93,18 @@ footer {
    width: 1200px;
 }
 
-#msze {
+#msze_box {
     width: 200px;
     border: 1px solid black;
     border-radius: 2px;
     float: left;
-margin: 20px 10px 20px 10px;
+margin: 50px 10px 20px 10px;
     padding: 10px 10px 10px 10px;
+    text-align: center;
 }
 .msze {
     font-size: 18px;
     font-family: bold;
     text-align: center;
 }
+
