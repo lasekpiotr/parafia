@@ -1,8 +1,8 @@
 body {
    width: 1200px;
-    font-family: 'Abhaya Libre', sans-serif;
+    font-family: 'Arima Madurai', cursive;
         margin: auto;
-
+    background-color: #d1d1d1;
 }
 
 #square {
@@ -36,8 +36,7 @@ nav {
 
 logo {
     margin: auto;
-    margin-top: 0px;
-    width: auto;
+        margin: auto;
 }
 
 li {
@@ -62,7 +61,8 @@ a {
 .naglowek {
     text-transform: uppercase;
     font-size: 40px;
-    margin: 20px 20px 20px 50px;
+    margin: 0px 20px 20px 50px;
+    padding-top: 30px;
     
    
 }
@@ -83,7 +83,7 @@ footer {
 #design {
     float: left;
     padding-top: 20px;
-    padding-left: 650px;
+    padding-left: 600px;
     
 }
 
@@ -93,18 +93,18 @@ footer {
     font-size: 18px;
     text-indent: 30px;
     float: left;
+    line-height: 1.5;
     }
 
 .rozdzielnik {
    width: 1200px;
 }
-
 #msze_box {
     width: 200px;
     border: 1px solid black;
     border-radius: 2px;
     float: left;
-margin: 50px 10px 20px 10px;
+    margin: 60px 10px 20px 50px;
     padding: 10px 10px 10px 10px;
     text-align: center;
 }
@@ -114,4 +114,7 @@ margin: 50px 10px 20px 10px;
     text-align: center;
 }
 
-
+#content {
+    background-color: white;
+    margin: -10px 0px 0px 0px;
+}
