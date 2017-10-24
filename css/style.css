@@ -1,9 +1,9 @@
 body {
+   background-image: url("../images/tlo.png");
    width: 1200px;
     font-family: 'Arima Madurai', cursive;
         margin: auto;
-    background-color: #d1d1d1;
-}
+          }
 
 #square {
   width: 1200px;
@@ -16,11 +16,11 @@ body {
 
 nav {
     color: white;
-        border-color: white;
+    border-color: white;
     text-transform: uppercase;
     padding-top: 9px;
     font-size: 18px;
-    padding-left: 500px;
+    padding-left: 450px;
  
     }
 
@@ -31,12 +31,13 @@ nav {
     color: white;
     float: left;
     text-transform: uppercase;
+    letter-spacing: 2px;
   
 }
 
 logo {
     margin: auto;
-        margin: auto;
+       
 }
 
 li {
@@ -46,6 +47,7 @@ li {
 
 a:hover {
     color: red;
+    text-decoration: underline;
    }
 
 a {
@@ -63,6 +65,7 @@ a {
     font-size: 40px;
     margin: 0px 20px 20px 50px;
     padding-top: 30px;
+   
     
    
 }
@@ -118,3 +121,27 @@ footer {
     background-color: white;
     margin: -10px 0px 0px 0px;
 }
+
+.contact {
+    text-align: center;
+    float: left;
+    margin: 20px 50px 20px 50px;
+    font-size: 18px;
+    width: 260px;
+}
+
+#map_container {
+    width: 1100px;
+    margin: 0px;
+    
+}
+
+.intencja {
+    width: 800px;
+    margin: 20px 50px 20px 50px;
+    font-size: 18px;
+    text-indent: 30px;
+       line-height: 1.5; 
+}
+
+
